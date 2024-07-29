@@ -33,5 +33,5 @@ There are TOO MANY ways to distribute games and apps. Here's an overview of thos
 | [MacPorts](https://ports.macports.org/) | MacOS | Free | [Self-built](https://ports.macports.org/all_builds/ "I'm not entirely sure how MacPorts decides when to build") | No |
 | [AUR](https://aur.archlinux.org/packages) | Arch Linux | Free | [Automatable, Self-built](## "The AUR PKGBUILD can be updated via CD, the package itself will be built by AUR") | No |
 | [Flathub](https://flathub.org/) | Linux | Free | Automatable | No |
-| [Snapcraft](https://snapcraft.io/store) | Linux | Free | Automatable | ??? |
+| [Snapcraft](https://snapcraft.io/store) | Linux | Free | Automatable | No |
 | [Pi-Apps](https://pi-apps.io/) | Raspberry Pi | Free | Automatable | No |
