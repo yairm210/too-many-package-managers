@@ -22,7 +22,7 @@ There are TOO MANY ways to distribute games and apps. Here's an overview of thos
 | Name    | Platforms | Cost | Delivery | Translateable entries? |
 | -------- | ------- | --- | --- | --- | 
 | [Chocolatey](https://chocolatey.org/) | Windows | Free | Automatable | No |
-| [Microsoft Store](https://apps.microsoft.com) | Windows | 18$ per account | ??? | ??? |
+| [Microsoft Store](https://apps.microsoft.com) | Windows | 18$ per account + [CA signing costs](## "Section 10.2.9 of Microrosft store policies - https://learn.microsoft.com/en-us/windows/apps/publish/store-policies - requires a CA signed to a trusted root, which costs money per release")  | ??? | Yes |
 | [Scoop](https://scoop.sh/) | Windows | Free | Automatable | No |
 
 ### Other
