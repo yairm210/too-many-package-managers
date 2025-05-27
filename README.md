@@ -16,6 +16,7 @@ There are TOO MANY ways to distribute games and apps. Here's an overview of thos
 | -------- | ------- | --- | --- | --- | 
 | [Itch.io](https://itch.io/)  | Linux, Windows, MacOS | Free | [Automatable](https://itch.io/docs/butler/) | No | 
 | [Steam](https://store.steampowered.com/) | Linux, Windows, MacOS | 100$ per app | [Semi-automatable](## "You can automate uploading to non-release tracks, but release tracks require manual intervention") | Yes | 
+| [Homebrew]([https://store.steampowered.com/](https://github.com/Homebrew/brew/)) | Linux, MacOS | Free | automateable - [example](https://github.com/yairm210/Unciv/blob/a11c3c42163684cce726462f995e7af9553c36bd/.github/workflows/buildAndDeploy.yml#L372) | No | 
 
 ### Windows Only
 
